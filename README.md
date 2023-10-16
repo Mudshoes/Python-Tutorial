@@ -18,3 +18,6 @@ Issue a pull request
 
 ## Step 6
 Merge the pull request if satisfactory
+
+## Step 7
+Fix branches
