@@ -14,4 +14,7 @@ commit changes.
 Push changes.
 
 ## Step 5
-Eat some cake.
+Issue a pull request
+
+## Step 6
+Merge the pull request if satisfactory
