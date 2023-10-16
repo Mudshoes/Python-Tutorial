@@ -1,5 +1,17 @@
 # Python-Tutorial
-How vscode and github work together
+How vscode and github work together.
 
 ## Step 1. 
-Pullling code from le repositoier
+Pullling code from le repositoier.
+
+## Step 2
+Add new changes.
+
+## Step 3 
+commit changes.
+
+## Step 4
+Push changes.
+
+## Step 5
+Eat some cake.
